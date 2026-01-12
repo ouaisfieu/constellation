@@ -8,8 +8,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     "Il se réfugie derrière une constellation d'identités.  ║
-║      Réelles et fictives. Morales et physiques.             ║
+║     "Il se réfugie derrière une constellation d'identités.   ║
+║      Réelles et fictives. Morales et physiques.              ║
 ║      Bonne chance."                                          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
