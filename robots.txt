@@ -1,0 +1,23 @@
+# La Constellation - robots.txt
+# https://ouaisfieu.github.io/constellation/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ouaisfieu.github.io/constellation/sitemap.xml
+
+# FHIR Endpoints (crawlable)
+Allow: /fhir/
+Allow: /.well-known/
+
+# Assets
+Allow: /assets/
+Allow: /contacts.json
+
+# Disallow admin/private
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl-delay for politeness
+Crawl-delay: 1

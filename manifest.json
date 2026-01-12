@@ -1,0 +1,129 @@
+{
+  "name": "La Constellation",
+  "short_name": "Constellation",
+  "description": "975 243 personnes piégées. 614 contacts pour s'organiser. Réseau FHIR-first pour la coordination des soins.",
+  "lang": "fr-BE",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "categories": ["health", "social", "news"],
+  "icons": [
+    {
+      "src": "/assets/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "La Constellation - Vue desktop"
+    },
+    {
+      "src": "/assets/screenshot-narrow.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "La Constellation - Vue mobile"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Réseau",
+      "short_name": "614 Contacts",
+      "description": "Accéder au réseau de 614 contacts",
+      "url": "/#reseau",
+      "icons": [{"src": "/assets/icon-contacts.png", "sizes": "192x192"}]
+    },
+    {
+      "name": "Arizona 2026",
+      "short_name": "Urgence",
+      "description": "Informations sur la réforme Arizona",
+      "url": "/#urgence",
+      "icons": [{"src": "/assets/icon-alert.png", "sizes": "192x192"}]
+    },
+    {
+      "name": "API FHIR",
+      "short_name": "FHIR",
+      "description": "Documentation FHIR",
+      "url": "/#fhir",
+      "icons": [{"src": "/assets/icon-fhir.png", "sizes": "192x192"}]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://ouaisfieu.github.io/constellation/manifest.json"
+    }
+  ],
+  "prefer_related_applications": false,
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+  "protocol_handlers": [
+    {
+      "protocol": "web+fhir",
+      "url": "/fhir/%s"
+    }
+  ],
+  "iarc_rating_id": "",
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
+}

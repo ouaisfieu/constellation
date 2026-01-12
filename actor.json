@@ -1,0 +1,116 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1",
+    {
+      "fhir": "http://hl7.org/fhir/",
+      "constellation": "https://ouaisfieu.github.io/constellation/ns#",
+      "manuallyApprovesFollowers": "as:manuallyApprovesFollowers",
+      "sensitive": "as:sensitive",
+      "Hashtag": "as:Hashtag",
+      "PropertyValue": "schema:PropertyValue",
+      "schema": "http://schema.org/",
+      "value": "schema:value",
+      "featured": {
+        "@id": "toot:featured",
+        "@type": "@id"
+      },
+      "toot": "http://joinmastodon.org/ns#"
+    }
+  ],
+  "id": "https://ouaisfieu.github.io/constellation/actor",
+  "type": "Organization",
+  "preferredUsername": "constellation",
+  "name": "La Constellation",
+  "summary": "<p>975 243 personnes piégées par le système belge. 180 000 exclusions programmées (Arizona 2026). 614 contacts pour s'organiser.</p><p>Réseau social FHIR-first pour la coordination des soins et l'action collective.</p><p>🔗 FHIR R4 | 🌐 ActivityPub | 🦋 AT Protocol</p>",
+  "url": "https://ouaisfieu.github.io/constellation/",
+  "manuallyApprovesFollowers": false,
+  "discoverable": true,
+  "published": "2025-01-01T00:00:00Z",
+  "icon": {
+    "type": "Image",
+    "mediaType": "image/svg+xml",
+    "url": "https://ouaisfieu.github.io/constellation/assets/icon.svg"
+  },
+  "image": {
+    "type": "Image",
+    "mediaType": "image/png",
+    "url": "https://ouaisfieu.github.io/constellation/og-image.png"
+  },
+  "inbox": "https://ouaisfieu.github.io/constellation/inbox",
+  "outbox": "https://ouaisfieu.github.io/constellation/outbox",
+  "followers": "https://ouaisfieu.github.io/constellation/followers",
+  "following": "https://ouaisfieu.github.io/constellation/following",
+  "featured": "https://ouaisfieu.github.io/constellation/featured",
+  "endpoints": {
+    "sharedInbox": "https://ouaisfieu.github.io/constellation/inbox"
+  },
+  "publicKey": {
+    "id": "https://ouaisfieu.github.io/constellation/actor#main-key",
+    "owner": "https://ouaisfieu.github.io/constellation/actor",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\n[PLACEHOLDER - Generate with openssl]\n-----END PUBLIC KEY-----"
+  },
+  "attachment": [
+    {
+      "type": "PropertyValue",
+      "name": "🌐 Site web",
+      "value": "<a href=\"https://ouaisfieu.github.io/constellation/\" rel=\"me\">ouaisfieu.github.io/constellation</a>"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "🔗 FHIR API",
+      "value": "<a href=\"https://ouaisfieu.github.io/constellation/fhir/metadata\">FHIR R4 CapabilityStatement</a>"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "💻 GitHub",
+      "value": "<a href=\"https://github.com/ouaisfieu/constellation\" rel=\"me\">github.com/ouaisfieu</a>"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "🧠 NYXO",
+      "value": "<a href=\"https://nyxo.brussels\">nyxo.brussels</a>"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "📊 Contacts",
+      "value": "614 organisations vérifiées"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "📍 Zone",
+      "value": "Belgique 🇧🇪"
+    }
+  ],
+  "tag": [
+    {
+      "type": "Hashtag",
+      "href": "https://ouaisfieu.github.io/constellation/tags/belgique",
+      "name": "#Belgique"
+    },
+    {
+      "type": "Hashtag",
+      "href": "https://ouaisfieu.github.io/constellation/tags/chomage",
+      "name": "#Chômage"
+    },
+    {
+      "type": "Hashtag",
+      "href": "https://ouaisfieu.github.io/constellation/tags/fhir",
+      "name": "#FHIR"
+    },
+    {
+      "type": "Hashtag",
+      "href": "https://ouaisfieu.github.io/constellation/tags/santementale",
+      "name": "#SantéMentale"
+    },
+    {
+      "type": "Hashtag",
+      "href": "https://ouaisfieu.github.io/constellation/tags/arizona2026",
+      "name": "#Arizona2026"
+    }
+  ],
+  "constellation:fhirEndpoint": "https://ouaisfieu.github.io/constellation/fhir",
+  "constellation:totalContacts": 614,
+  "constellation:totalPeopleInSystem": 975243,
+  "constellation:arizonaExclusions": 180000
+}
