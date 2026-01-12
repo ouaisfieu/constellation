@@ -1,0 +1,24 @@
+{
+  "name": "@constellation/chain-mail",
+  "version": "1.0.0",
+  "description": "42 mails × 9 destinataires = 378 points d'entrée dans La Constellation",
+  "type": "module",
+  "scripts": {
+    "convert": "npx tsx src/csv-to-json.ts",
+    "generate": "npx tsx src/cli.ts",
+    "preview": "npx tsx src/cli.ts --preview",
+    "send": "npx tsx src/sender.ts",
+    "send:test": "npx tsx src/sender.ts --test",
+    "send:wave": "npx tsx src/sender.ts --wave",
+    "all": "npm run convert && npm run generate"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/nodemailer": "^6.4.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0"
+  }
+}

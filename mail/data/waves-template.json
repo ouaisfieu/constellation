@@ -1,0 +1,120 @@
+{
+  "$schema": "constellation-chain-mail-schema",
+  "version": "1.0.0",
+  "description": "42 mails × 9 destinataires = 378 points d'entrée dans La Constellation",
+  
+  "sender": {
+    "email": "noreply@constellation.example",
+    "name": "✧",
+    "replyTo": null
+  },
+  
+  "tracking": {
+    "bluesky": "https://bsky.app/profile/ouaisfi.eu",
+    "youtube": "https://www.youtube.com/@ouaisfieu",
+    "website": "https://ouaisfieu.github.io/constellation/"
+  },
+  
+  "waves": [
+    {
+      "id": 1,
+      "theme": "L'éveil",
+      "subject": "Tu fais partie du système",
+      "videoId": "YOUTUBE_VIDEO_ID_1",
+      "videoTitle": "LA CONSTELLATION #1 — L'éveil",
+      "customIntro": "Premier mail de la série. 41 autres suivent.",
+      "recipients": [
+        {
+          "email": "contact1@example.com",
+          "name": "Prénom",
+          "context": "ancien collègue",
+          "angle": "Tu travaillais dans les RH. Tu as vu les licenciements. Tu sais comment ça se passe vraiment."
+        },
+        {
+          "email": "contact2@example.com",
+          "name": null,
+          "context": "contact LinkedIn",
+          "angle": null
+        },
+        {
+          "email": "contact3@example.com",
+          "name": "Marie",
+          "context": "amie d'amie",
+          "angle": "On s'est croisés à cette soirée. Tu parlais de ton burn-out. Ce mail est pour toi."
+        },
+        {
+          "email": "contact4@example.com",
+          "name": null,
+          "context": "newsletter subscriber",
+          "angle": null
+        },
+        {
+          "email": "contact5@example.com",
+          "name": "Thomas",
+          "context": "ancien voisin",
+          "angle": "Tu as déménagé pour le travail. Ça valait le coup ?"
+        },
+        {
+          "email": "contact6@example.com",
+          "name": null,
+          "context": "contact pro",
+          "angle": null
+        },
+        {
+          "email": "contact7@example.com",
+          "name": null,
+          "context": "inconnu total",
+          "angle": "Je ne te connais pas. Mais quelqu'un m'a donné ton adresse. Tu verras pourquoi."
+        },
+        {
+          "email": "contact8@example.com",
+          "name": "Sophie",
+          "context": "ex",
+          "angle": "On ne se parle plus. Mais ce message n'est pas personnel. Enfin, pas que."
+        },
+        {
+          "email": "contact9@example.com",
+          "name": null,
+          "context": "journaliste",
+          "angle": "Tu écris sur l'économie. Mais tu n'as jamais écrit sur ça. Pourquoi ?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "Les chiffres",
+      "subject": "975 243",
+      "videoId": "YOUTUBE_VIDEO_ID_2",
+      "videoTitle": "LA CONSTELLATION #2 — 975 243",
+      "customIntro": null,
+      "recipients": [
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null},
+        {"email": "TODO", "name": null, "context": null, "angle": null}
+      ]
+    }
+  ],
+  
+  "_template_recipient": {
+    "email": "string (required)",
+    "name": "string | null (prénom pour personnalisation)",
+    "context": "string | null (comment tu connais cette personne)",
+    "angle": "string | null (phrase personnalisée dans le mail)"
+  },
+  
+  "_instructions": [
+    "1. Remplis les 42 waves avec tes 378 contacts (9 par wave)",
+    "2. Ajoute les videoId YouTube quand tu les auras uploadées",
+    "3. Personnalise les 'angle' pour les contacts importants",
+    "4. Lance le générateur pour créer les mails HTML",
+    "5. Utilise un service comme SendGrid, Mailjet, ou même Gmail SMTP",
+    "6. Envoie par batch pour éviter les filtres spam",
+    "7. Track la viralité sur Bluesky avec #LaConstellation"
+  ]
+}

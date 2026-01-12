@@ -1,0 +1,379 @@
+wave_id,recipient_index,email,name,context,angle,video_id,theme
+1,1,TODO,,,VIDEO_1_1,L'éveil
+1,2,TODO,,,VIDEO_1_2,L'éveil
+1,3,TODO,,,VIDEO_1_3,L'éveil
+1,4,TODO,,,VIDEO_1_4,L'éveil
+1,5,TODO,,,VIDEO_1_5,L'éveil
+1,6,TODO,,,VIDEO_1_6,L'éveil
+1,7,TODO,,,VIDEO_1_7,L'éveil
+1,8,TODO,,,VIDEO_1_8,L'éveil
+1,9,TODO,,,VIDEO_1_9,L'éveil
+2,1,TODO,,,VIDEO_2_1,Les chiffres
+2,2,TODO,,,VIDEO_2_2,Les chiffres
+2,3,TODO,,,VIDEO_2_3,Les chiffres
+2,4,TODO,,,VIDEO_2_4,Les chiffres
+2,5,TODO,,,VIDEO_2_5,Les chiffres
+2,6,TODO,,,VIDEO_2_6,Les chiffres
+2,7,TODO,,,VIDEO_2_7,Les chiffres
+2,8,TODO,,,VIDEO_2_8,Les chiffres
+2,9,TODO,,,VIDEO_2_9,Les chiffres
+3,1,TODO,,,VIDEO_3_1,Le piège fiscal
+3,2,TODO,,,VIDEO_3_2,Le piège fiscal
+3,3,TODO,,,VIDEO_3_3,Le piège fiscal
+3,4,TODO,,,VIDEO_3_4,Le piège fiscal
+3,5,TODO,,,VIDEO_3_5,Le piège fiscal
+3,6,TODO,,,VIDEO_3_6,Le piège fiscal
+3,7,TODO,,,VIDEO_3_7,Le piège fiscal
+3,8,TODO,,,VIDEO_3_8,Le piège fiscal
+3,9,TODO,,,VIDEO_3_9,Le piège fiscal
+4,1,TODO,,,VIDEO_4_1,L'invalidité
+4,2,TODO,,,VIDEO_4_2,L'invalidité
+4,3,TODO,,,VIDEO_4_3,L'invalidité
+4,4,TODO,,,VIDEO_4_4,L'invalidité
+4,5,TODO,,,VIDEO_4_5,L'invalidité
+4,6,TODO,,,VIDEO_4_6,L'invalidité
+4,7,TODO,,,VIDEO_4_7,L'invalidité
+4,8,TODO,,,VIDEO_4_8,L'invalidité
+4,9,TODO,,,VIDEO_4_9,L'invalidité
+5,1,TODO,,,VIDEO_5_1,Arizona
+5,2,TODO,,,VIDEO_5_2,Arizona
+5,3,TODO,,,VIDEO_5_3,Arizona
+5,4,TODO,,,VIDEO_5_4,Arizona
+5,5,TODO,,,VIDEO_5_5,Arizona
+5,6,TODO,,,VIDEO_5_6,Arizona
+5,7,TODO,,,VIDEO_5_7,Arizona
+5,8,TODO,,,VIDEO_5_8,Arizona
+5,9,TODO,,,VIDEO_5_9,Arizona
+6,1,TODO,,,VIDEO_6_1,Le silence
+6,2,TODO,,,VIDEO_6_2,Le silence
+6,3,TODO,,,VIDEO_6_3,Le silence
+6,4,TODO,,,VIDEO_6_4,Le silence
+6,5,TODO,,,VIDEO_6_5,Le silence
+6,6,TODO,,,VIDEO_6_6,Le silence
+6,7,TODO,,,VIDEO_6_7,Le silence
+6,8,TODO,,,VIDEO_6_8,Le silence
+6,9,TODO,,,VIDEO_6_9,Le silence
+7,1,TODO,,,VIDEO_7_1,La honte
+7,2,TODO,,,VIDEO_7_2,La honte
+7,3,TODO,,,VIDEO_7_3,La honte
+7,4,TODO,,,VIDEO_7_4,La honte
+7,5,TODO,,,VIDEO_7_5,La honte
+7,6,TODO,,,VIDEO_7_6,La honte
+7,7,TODO,,,VIDEO_7_7,La honte
+7,8,TODO,,,VIDEO_7_8,La honte
+7,9,TODO,,,VIDEO_7_9,La honte
+8,1,TODO,,,VIDEO_8_1,Les mutuelles
+8,2,TODO,,,VIDEO_8_2,Les mutuelles
+8,3,TODO,,,VIDEO_8_3,Les mutuelles
+8,4,TODO,,,VIDEO_8_4,Les mutuelles
+8,5,TODO,,,VIDEO_8_5,Les mutuelles
+8,6,TODO,,,VIDEO_8_6,Les mutuelles
+8,7,TODO,,,VIDEO_8_7,Les mutuelles
+8,8,TODO,,,VIDEO_8_8,Les mutuelles
+8,9,TODO,,,VIDEO_8_9,Les mutuelles
+9,1,TODO,,,VIDEO_9_1,L'ONEM
+9,2,TODO,,,VIDEO_9_2,L'ONEM
+9,3,TODO,,,VIDEO_9_3,L'ONEM
+9,4,TODO,,,VIDEO_9_4,L'ONEM
+9,5,TODO,,,VIDEO_9_5,L'ONEM
+9,6,TODO,,,VIDEO_9_6,L'ONEM
+9,7,TODO,,,VIDEO_9_7,L'ONEM
+9,8,TODO,,,VIDEO_9_8,L'ONEM
+9,9,TODO,,,VIDEO_9_9,L'ONEM
+10,1,TODO,,,VIDEO_10_1,Les contrôles
+10,2,TODO,,,VIDEO_10_2,Les contrôles
+10,3,TODO,,,VIDEO_10_3,Les contrôles
+10,4,TODO,,,VIDEO_10_4,Les contrôles
+10,5,TODO,,,VIDEO_10_5,Les contrôles
+10,6,TODO,,,VIDEO_10_6,Les contrôles
+10,7,TODO,,,VIDEO_10_7,Les contrôles
+10,8,TODO,,,VIDEO_10_8,Les contrôles
+10,9,TODO,,,VIDEO_10_9,Les contrôles
+11,1,TODO,,,VIDEO_11_1,La dépression
+11,2,TODO,,,VIDEO_11_2,La dépression
+11,3,TODO,,,VIDEO_11_3,La dépression
+11,4,TODO,,,VIDEO_11_4,La dépression
+11,5,TODO,,,VIDEO_11_5,La dépression
+11,6,TODO,,,VIDEO_11_6,La dépression
+11,7,TODO,,,VIDEO_11_7,La dépression
+11,8,TODO,,,VIDEO_11_8,La dépression
+11,9,TODO,,,VIDEO_11_9,La dépression
+12,1,TODO,,,VIDEO_12_1,L'isolement
+12,2,TODO,,,VIDEO_12_2,L'isolement
+12,3,TODO,,,VIDEO_12_3,L'isolement
+12,4,TODO,,,VIDEO_12_4,L'isolement
+12,5,TODO,,,VIDEO_12_5,L'isolement
+12,6,TODO,,,VIDEO_12_6,L'isolement
+12,7,TODO,,,VIDEO_12_7,L'isolement
+12,8,TODO,,,VIDEO_12_8,L'isolement
+12,9,TODO,,,VIDEO_12_9,L'isolement
+13,1,TODO,,,VIDEO_13_1,La dette
+13,2,TODO,,,VIDEO_13_2,La dette
+13,3,TODO,,,VIDEO_13_3,La dette
+13,4,TODO,,,VIDEO_13_4,La dette
+13,5,TODO,,,VIDEO_13_5,La dette
+13,6,TODO,,,VIDEO_13_6,La dette
+13,7,TODO,,,VIDEO_13_7,La dette
+13,8,TODO,,,VIDEO_13_8,La dette
+13,9,TODO,,,VIDEO_13_9,La dette
+14,1,TODO,,,VIDEO_14_1,Le travail
+14,2,TODO,,,VIDEO_14_2,Le travail
+14,3,TODO,,,VIDEO_14_3,Le travail
+14,4,TODO,,,VIDEO_14_4,Le travail
+14,5,TODO,,,VIDEO_14_5,Le travail
+14,6,TODO,,,VIDEO_14_6,Le travail
+14,7,TODO,,,VIDEO_14_7,Le travail
+14,8,TODO,,,VIDEO_14_8,Le travail
+14,9,TODO,,,VIDEO_14_9,Le travail
+15,1,TODO,,,VIDEO_15_1,Les enfants
+15,2,TODO,,,VIDEO_15_2,Les enfants
+15,3,TODO,,,VIDEO_15_3,Les enfants
+15,4,TODO,,,VIDEO_15_4,Les enfants
+15,5,TODO,,,VIDEO_15_5,Les enfants
+15,6,TODO,,,VIDEO_15_6,Les enfants
+15,7,TODO,,,VIDEO_15_7,Les enfants
+15,8,TODO,,,VIDEO_15_8,Les enfants
+15,9,TODO,,,VIDEO_15_9,Les enfants
+16,1,TODO,,,VIDEO_16_1,La colère
+16,2,TODO,,,VIDEO_16_2,La colère
+16,3,TODO,,,VIDEO_16_3,La colère
+16,4,TODO,,,VIDEO_16_4,La colère
+16,5,TODO,,,VIDEO_16_5,La colère
+16,6,TODO,,,VIDEO_16_6,La colère
+16,7,TODO,,,VIDEO_16_7,La colère
+16,8,TODO,,,VIDEO_16_8,La colère
+16,9,TODO,,,VIDEO_16_9,La colère
+17,1,TODO,,,VIDEO_17_1,L'espoir
+17,2,TODO,,,VIDEO_17_2,L'espoir
+17,3,TODO,,,VIDEO_17_3,L'espoir
+17,4,TODO,,,VIDEO_17_4,L'espoir
+17,5,TODO,,,VIDEO_17_5,L'espoir
+17,6,TODO,,,VIDEO_17_6,L'espoir
+17,7,TODO,,,VIDEO_17_7,L'espoir
+17,8,TODO,,,VIDEO_17_8,L'espoir
+17,9,TODO,,,VIDEO_17_9,L'espoir
+18,1,TODO,,,VIDEO_18_1,L'action
+18,2,TODO,,,VIDEO_18_2,L'action
+18,3,TODO,,,VIDEO_18_3,L'action
+18,4,TODO,,,VIDEO_18_4,L'action
+18,5,TODO,,,VIDEO_18_5,L'action
+18,6,TODO,,,VIDEO_18_6,L'action
+18,7,TODO,,,VIDEO_18_7,L'action
+18,8,TODO,,,VIDEO_18_8,L'action
+18,9,TODO,,,VIDEO_18_9,L'action
+19,1,TODO,,,VIDEO_19_1,Le vote
+19,2,TODO,,,VIDEO_19_2,Le vote
+19,3,TODO,,,VIDEO_19_3,Le vote
+19,4,TODO,,,VIDEO_19_4,Le vote
+19,5,TODO,,,VIDEO_19_5,Le vote
+19,6,TODO,,,VIDEO_19_6,Le vote
+19,7,TODO,,,VIDEO_19_7,Le vote
+19,8,TODO,,,VIDEO_19_8,Le vote
+19,9,TODO,,,VIDEO_19_9,Le vote
+20,1,TODO,,,VIDEO_20_1,Les syndicats
+20,2,TODO,,,VIDEO_20_2,Les syndicats
+20,3,TODO,,,VIDEO_20_3,Les syndicats
+20,4,TODO,,,VIDEO_20_4,Les syndicats
+20,5,TODO,,,VIDEO_20_5,Les syndicats
+20,6,TODO,,,VIDEO_20_6,Les syndicats
+20,7,TODO,,,VIDEO_20_7,Les syndicats
+20,8,TODO,,,VIDEO_20_8,Les syndicats
+20,9,TODO,,,VIDEO_20_9,Les syndicats
+21,1,TODO,,,VIDEO_21_1,L'Europe
+21,2,TODO,,,VIDEO_21_2,L'Europe
+21,3,TODO,,,VIDEO_21_3,L'Europe
+21,4,TODO,,,VIDEO_21_4,L'Europe
+21,5,TODO,,,VIDEO_21_5,L'Europe
+21,6,TODO,,,VIDEO_21_6,L'Europe
+21,7,TODO,,,VIDEO_21_7,L'Europe
+21,8,TODO,,,VIDEO_21_8,L'Europe
+21,9,TODO,,,VIDEO_21_9,L'Europe
+22,1,TODO,,,VIDEO_22_1,Le CPAS
+22,2,TODO,,,VIDEO_22_2,Le CPAS
+22,3,TODO,,,VIDEO_22_3,Le CPAS
+22,4,TODO,,,VIDEO_22_4,Le CPAS
+22,5,TODO,,,VIDEO_22_5,Le CPAS
+22,6,TODO,,,VIDEO_22_6,Le CPAS
+22,7,TODO,,,VIDEO_22_7,Le CPAS
+22,8,TODO,,,VIDEO_22_8,Le CPAS
+22,9,TODO,,,VIDEO_22_9,Le CPAS
+23,1,TODO,,,VIDEO_23_1,Le logement
+23,2,TODO,,,VIDEO_23_2,Le logement
+23,3,TODO,,,VIDEO_23_3,Le logement
+23,4,TODO,,,VIDEO_23_4,Le logement
+23,5,TODO,,,VIDEO_23_5,Le logement
+23,6,TODO,,,VIDEO_23_6,Le logement
+23,7,TODO,,,VIDEO_23_7,Le logement
+23,8,TODO,,,VIDEO_23_8,Le logement
+23,9,TODO,,,VIDEO_23_9,Le logement
+24,1,TODO,,,VIDEO_24_1,La santé
+24,2,TODO,,,VIDEO_24_2,La santé
+24,3,TODO,,,VIDEO_24_3,La santé
+24,4,TODO,,,VIDEO_24_4,La santé
+24,5,TODO,,,VIDEO_24_5,La santé
+24,6,TODO,,,VIDEO_24_6,La santé
+24,7,TODO,,,VIDEO_24_7,La santé
+24,8,TODO,,,VIDEO_24_8,La santé
+24,9,TODO,,,VIDEO_24_9,La santé
+25,1,TODO,,,VIDEO_25_1,Les femmes
+25,2,TODO,,,VIDEO_25_2,Les femmes
+25,3,TODO,,,VIDEO_25_3,Les femmes
+25,4,TODO,,,VIDEO_25_4,Les femmes
+25,5,TODO,,,VIDEO_25_5,Les femmes
+25,6,TODO,,,VIDEO_25_6,Les femmes
+25,7,TODO,,,VIDEO_25_7,Les femmes
+25,8,TODO,,,VIDEO_25_8,Les femmes
+25,9,TODO,,,VIDEO_25_9,Les femmes
+26,1,TODO,,,VIDEO_26_1,Les jeunes
+26,2,TODO,,,VIDEO_26_2,Les jeunes
+26,3,TODO,,,VIDEO_26_3,Les jeunes
+26,4,TODO,,,VIDEO_26_4,Les jeunes
+26,5,TODO,,,VIDEO_26_5,Les jeunes
+26,6,TODO,,,VIDEO_26_6,Les jeunes
+26,7,TODO,,,VIDEO_26_7,Les jeunes
+26,8,TODO,,,VIDEO_26_8,Les jeunes
+26,9,TODO,,,VIDEO_26_9,Les jeunes
+27,1,TODO,,,VIDEO_27_1,Les vieux
+27,2,TODO,,,VIDEO_27_2,Les vieux
+27,3,TODO,,,VIDEO_27_3,Les vieux
+27,4,TODO,,,VIDEO_27_4,Les vieux
+27,5,TODO,,,VIDEO_27_5,Les vieux
+27,6,TODO,,,VIDEO_27_6,Les vieux
+27,7,TODO,,,VIDEO_27_7,Les vieux
+27,8,TODO,,,VIDEO_27_8,Les vieux
+27,9,TODO,,,VIDEO_27_9,Les vieux
+28,1,TODO,,,VIDEO_28_1,L'énergie
+28,2,TODO,,,VIDEO_28_2,L'énergie
+28,3,TODO,,,VIDEO_28_3,L'énergie
+28,4,TODO,,,VIDEO_28_4,L'énergie
+28,5,TODO,,,VIDEO_28_5,L'énergie
+28,6,TODO,,,VIDEO_28_6,L'énergie
+28,7,TODO,,,VIDEO_28_7,L'énergie
+28,8,TODO,,,VIDEO_28_8,L'énergie
+28,9,TODO,,,VIDEO_28_9,L'énergie
+29,1,TODO,,,VIDEO_29_1,La bouffe
+29,2,TODO,,,VIDEO_29_2,La bouffe
+29,3,TODO,,,VIDEO_29_3,La bouffe
+29,4,TODO,,,VIDEO_29_4,La bouffe
+29,5,TODO,,,VIDEO_29_5,La bouffe
+29,6,TODO,,,VIDEO_29_6,La bouffe
+29,7,TODO,,,VIDEO_29_7,La bouffe
+29,8,TODO,,,VIDEO_29_8,La bouffe
+29,9,TODO,,,VIDEO_29_9,La bouffe
+30,1,TODO,,,VIDEO_30_1,Les transports
+30,2,TODO,,,VIDEO_30_2,Les transports
+30,3,TODO,,,VIDEO_30_3,Les transports
+30,4,TODO,,,VIDEO_30_4,Les transports
+30,5,TODO,,,VIDEO_30_5,Les transports
+30,6,TODO,,,VIDEO_30_6,Les transports
+30,7,TODO,,,VIDEO_30_7,Les transports
+30,8,TODO,,,VIDEO_30_8,Les transports
+30,9,TODO,,,VIDEO_30_9,Les transports
+31,1,TODO,,,VIDEO_31_1,Le numérique
+31,2,TODO,,,VIDEO_31_2,Le numérique
+31,3,TODO,,,VIDEO_31_3,Le numérique
+31,4,TODO,,,VIDEO_31_4,Le numérique
+31,5,TODO,,,VIDEO_31_5,Le numérique
+31,6,TODO,,,VIDEO_31_6,Le numérique
+31,7,TODO,,,VIDEO_31_7,Le numérique
+31,8,TODO,,,VIDEO_31_8,Le numérique
+31,9,TODO,,,VIDEO_31_9,Le numérique
+32,1,TODO,,,VIDEO_32_1,Les papiers
+32,2,TODO,,,VIDEO_32_2,Les papiers
+32,3,TODO,,,VIDEO_32_3,Les papiers
+32,4,TODO,,,VIDEO_32_4,Les papiers
+32,5,TODO,,,VIDEO_32_5,Les papiers
+32,6,TODO,,,VIDEO_32_6,Les papiers
+32,7,TODO,,,VIDEO_32_7,Les papiers
+32,8,TODO,,,VIDEO_32_8,Les papiers
+32,9,TODO,,,VIDEO_32_9,Les papiers
+33,1,TODO,,,VIDEO_33_1,La langue
+33,2,TODO,,,VIDEO_33_2,La langue
+33,3,TODO,,,VIDEO_33_3,La langue
+33,4,TODO,,,VIDEO_33_4,La langue
+33,5,TODO,,,VIDEO_33_5,La langue
+33,6,TODO,,,VIDEO_33_6,La langue
+33,7,TODO,,,VIDEO_33_7,La langue
+33,8,TODO,,,VIDEO_33_8,La langue
+33,9,TODO,,,VIDEO_33_9,La langue
+34,1,TODO,,,VIDEO_34_1,Les riches
+34,2,TODO,,,VIDEO_34_2,Les riches
+34,3,TODO,,,VIDEO_34_3,Les riches
+34,4,TODO,,,VIDEO_34_4,Les riches
+34,5,TODO,,,VIDEO_34_5,Les riches
+34,6,TODO,,,VIDEO_34_6,Les riches
+34,7,TODO,,,VIDEO_34_7,Les riches
+34,8,TODO,,,VIDEO_34_8,Les riches
+34,9,TODO,,,VIDEO_34_9,Les riches
+35,1,TODO,,,VIDEO_35_1,Les banques
+35,2,TODO,,,VIDEO_35_2,Les banques
+35,3,TODO,,,VIDEO_35_3,Les banques
+35,4,TODO,,,VIDEO_35_4,Les banques
+35,5,TODO,,,VIDEO_35_5,Les banques
+35,6,TODO,,,VIDEO_35_6,Les banques
+35,7,TODO,,,VIDEO_35_7,Les banques
+35,8,TODO,,,VIDEO_35_8,Les banques
+35,9,TODO,,,VIDEO_35_9,Les banques
+36,1,TODO,,,VIDEO_36_1,L'éducation
+36,2,TODO,,,VIDEO_36_2,L'éducation
+36,3,TODO,,,VIDEO_36_3,L'éducation
+36,4,TODO,,,VIDEO_36_4,L'éducation
+36,5,TODO,,,VIDEO_36_5,L'éducation
+36,6,TODO,,,VIDEO_36_6,L'éducation
+36,7,TODO,,,VIDEO_36_7,L'éducation
+36,8,TODO,,,VIDEO_36_8,L'éducation
+36,9,TODO,,,VIDEO_36_9,L'éducation
+37,1,TODO,,,VIDEO_37_1,La culture
+37,2,TODO,,,VIDEO_37_2,La culture
+37,3,TODO,,,VIDEO_37_3,La culture
+37,4,TODO,,,VIDEO_37_4,La culture
+37,5,TODO,,,VIDEO_37_5,La culture
+37,6,TODO,,,VIDEO_37_6,La culture
+37,7,TODO,,,VIDEO_37_7,La culture
+37,8,TODO,,,VIDEO_37_8,La culture
+37,9,TODO,,,VIDEO_37_9,La culture
+38,1,TODO,,,VIDEO_38_1,L'écologie
+38,2,TODO,,,VIDEO_38_2,L'écologie
+38,3,TODO,,,VIDEO_38_3,L'écologie
+38,4,TODO,,,VIDEO_38_4,L'écologie
+38,5,TODO,,,VIDEO_38_5,L'écologie
+38,6,TODO,,,VIDEO_38_6,L'écologie
+38,7,TODO,,,VIDEO_38_7,L'écologie
+38,8,TODO,,,VIDEO_38_8,L'écologie
+38,9,TODO,,,VIDEO_38_9,L'écologie
+39,1,TODO,,,VIDEO_39_1,La tech
+39,2,TODO,,,VIDEO_39_2,La tech
+39,3,TODO,,,VIDEO_39_3,La tech
+39,4,TODO,,,VIDEO_39_4,La tech
+39,5,TODO,,,VIDEO_39_5,La tech
+39,6,TODO,,,VIDEO_39_6,La tech
+39,7,TODO,,,VIDEO_39_7,La tech
+39,8,TODO,,,VIDEO_39_8,La tech
+39,9,TODO,,,VIDEO_39_9,La tech
+40,1,TODO,,,VIDEO_40_1,Le futur
+40,2,TODO,,,VIDEO_40_2,Le futur
+40,3,TODO,,,VIDEO_40_3,Le futur
+40,4,TODO,,,VIDEO_40_4,Le futur
+40,5,TODO,,,VIDEO_40_5,Le futur
+40,6,TODO,,,VIDEO_40_6,Le futur
+40,7,TODO,,,VIDEO_40_7,Le futur
+40,8,TODO,,,VIDEO_40_8,Le futur
+40,9,TODO,,,VIDEO_40_9,Le futur
+41,1,TODO,,,VIDEO_41_1,Toi
+41,2,TODO,,,VIDEO_41_2,Toi
+41,3,TODO,,,VIDEO_41_3,Toi
+41,4,TODO,,,VIDEO_41_4,Toi
+41,5,TODO,,,VIDEO_41_5,Toi
+41,6,TODO,,,VIDEO_41_6,Toi
+41,7,TODO,,,VIDEO_41_7,Toi
+41,8,TODO,,,VIDEO_41_8,Toi
+41,9,TODO,,,VIDEO_41_9,Toi
+42,1,TODO,,,VIDEO_42_1,Nous
+42,2,TODO,,,VIDEO_42_2,Nous
+42,3,TODO,,,VIDEO_42_3,Nous
+42,4,TODO,,,VIDEO_42_4,Nous
+42,5,TODO,,,VIDEO_42_5,Nous
+42,6,TODO,,,VIDEO_42_6,Nous
+42,7,TODO,,,VIDEO_42_7,Nous
+42,8,TODO,,,VIDEO_42_8,Nous
+42,9,TODO,,,VIDEO_42_9,Nous
